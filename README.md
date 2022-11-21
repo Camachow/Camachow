@@ -11,10 +11,10 @@
 
 
 
-<div align="center">
+<div>
   <a href="https://github.com/Camachow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camachow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camachow&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camachow&layout=compact&hide=Makefile&theme=dark"/>
 </div>
   
  <!--
