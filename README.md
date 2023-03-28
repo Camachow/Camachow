@@ -9,12 +9,6 @@
 - 💬 Ask me about Back End and C++
 - 📫 How to reach me: rafaelcamachofitti15@gmail.com
 - ⚡ Fun fact: I'm also interested in game development
-
-<div align="center">
-  <a href="https://github.com/Camachow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camachow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camachow&layout=compact&hide=Makefile&count_private=true&theme=dark"/>
-</div>
   
 <div align="center", style="display: inline_block"><br>
   <img align="center" alt="Camacho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
