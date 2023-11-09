@@ -4,7 +4,6 @@
 **Camachow/Camachow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at iJunior
 - 🌱 I’m currently learning Back End, React, Next and Machine Learning
 - 💬 Ask me about Back End and C++
 - 📫 How to reach me: rafaelcamachofitti15@gmail.com
